@@ -131,7 +131,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #fed136;
+  color: #fe8935
 }
 
 @media (min-width: 992px) {
@@ -449,7 +449,7 @@ header.masthead .intro-text .intro-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #fed136;
+  background-color: #fe8935;
 }
 
 .timeline > li .timeline-image h4 {
