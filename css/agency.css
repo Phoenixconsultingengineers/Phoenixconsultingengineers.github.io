@@ -12,7 +12,7 @@ a {
 }
 
 a:hover {
-  color: #fec503;
+  color: #fea602;
 }
 
 .text-primary {
@@ -114,11 +114,11 @@ img::-moz-selection {
 
 #mainNav .navbar-brand {
   color: #fe8935;
-  font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
+  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, cursive;
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #fec503;
+  color: #fe8935;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
